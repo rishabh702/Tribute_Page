@@ -1,0 +1,26 @@
+body{
+    width: auto;
+    border: 15px solid black;
+    padding: 35px;
+    margin: 20px;
+}
+
+.box{
+    background-color: gray;
+}
+
+.name{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+li, p{
+  margin-bottom: 15px;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+}
